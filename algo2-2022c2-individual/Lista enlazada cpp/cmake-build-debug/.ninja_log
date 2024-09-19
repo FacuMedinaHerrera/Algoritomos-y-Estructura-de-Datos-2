@@ -1,0 +1,15 @@
+# ninja log v5
+3	451	1664658003799062048	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	9dae81ba222270f2
+0	147	1664690888429733770	CMakeFiles/correrTests.dir/src/Lista.cpp.o	feb68f6df6e31964
+0	496	1664690888777731761	CMakeFiles/correrTests.dir/tests/lista_tests.cpp.o	be07cd44129c56e8
+2192	2226	1664658005575081456	libgtest.a	d66b272dff26181d
+451	458	1664658003807062137	libgtest_main.a	2b245cf3c2fb1789
+496	595	1664690888873731207	correrTests	a27b318b57d0cfb6
+3	2191	1664658005535081017	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	844fb14e7cc906a4
+2	149	1668988055674450594	CMakeFiles/correrTests.dir/src/Lista.cpp.o	feb68f6df6e31964
+1	434	1668988055958450985	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	9dae81ba222270f2
+434	445	1668988055970451002	libgtest_main.a	29f9c421670b0400
+2	507	1668988056030451084	CMakeFiles/correrTests.dir/tests/lista_tests.cpp.o	be07cd44129c56e8
+1	2160	1668988057682453355	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	844fb14e7cc906a4
+2160	2205	1668988057730453422	libgtest.a	ab6fdd324735d50
+2205	2314	1668988057838453572	correrTests	a27b318b57d0cfb6

@@ -1,0 +1,6 @@
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/gtest.dir
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/facu/Escritorio/Facu/Exactas/Algo 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
