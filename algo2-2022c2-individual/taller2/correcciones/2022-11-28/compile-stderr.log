@@ -1,0 +1,23 @@
+In file included from ./Conjunto.h:80,
+                 from ../../../../../taller2/conjunto-tests.cpp:2:
+./Conjunto.hpp: In instantiation of ‘const T& Conjunto<T>::siguiente(const T&) [with T = int]’:
+../../../../../taller2/conjunto-tests.cpp:141:5:   required from here
+./Conjunto.hpp:230:16: warning: reference to local variable ‘sucesor’ returned [-Wreturn-local-addr]
+  230 |         return sucesor;
+      |                ^~~~~~~
+./Conjunto.hpp:195:7: note: declared here
+  195 |     T sucesor;//tupla de nodo que se fija si entro por izq o der
+      |       ^~~~~~~
+In file included from ../../../../../taller2/conjunto-tests.cpp:1:
+../../../../../taller2/gtest-1.8.1/gtest.h: In instantiation of ‘testing::AssertionResult testing::internal::CmpHelperEQ(const char*, const char*, const T1&, const T2&) [with T1 = unsigned int; T2 = int]’:
+../../../../../taller2/gtest-1.8.1/gtest.h:21235:23:   required from ‘static testing::AssertionResult testing::internal::EqHelper<lhs_is_null_literal>::Compare(const char*, const char*, const T1&, const T2&) [with T1 = unsigned int; T2 = int; bool lhs_is_null_literal = false]’
+../../../../../taller2/conjunto-tests.cpp:10:5:   required from here
+../../../../../taller2/gtest-1.8.1/gtest.h:21207:11: warning: comparison of integer expressions of different signedness: ‘const unsigned int’ and ‘const int’ [-Wsign-compare]
+21207 |   if (lhs == rhs) {
+      |       ~~~~^~~~~~
+In file included from ./Conjunto.h:80,
+                 from ../../../../../taller2/conjunto-tests.cpp:2:
+./Conjunto.hpp: In member function ‘const T& Conjunto<T>::siguiente(const T&) [with T = int]’:
+./Conjunto.hpp:233:1: warning: control reaches end of non-void function [-Wreturn-type]
+  233 | }
+      | ^
